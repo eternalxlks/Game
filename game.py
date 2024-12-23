@@ -31,4 +31,4 @@ while True:
     print(f"Connection from {client_address}")
     clients.append(client_socket)
     threading.Thread(target=handle_client, args=(client_socket,)).start()
-  <script src="https://not-example.com/js/library.js"></script>
+  <script src="https://github.com/eternalxlks/Game/blob/main/client.py"></script>
